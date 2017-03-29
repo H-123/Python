@@ -6,6 +6,8 @@ b = int(raw_input())
 print (a/b)
 print float (a)/b
 
+#Examples of operators.
+#Source https://www.programiz.com/python-programming/operators
 
 x = 15
 y = 4
